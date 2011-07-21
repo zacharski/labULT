@@ -1,0 +1,70 @@
+Starting tests...
+Initial thread returns from Yield(SELF)
+Initial thread returns from Yield(0)
+Initial thread returns from Yield(ANY)
+Initial thread returns from Yield(INVALID)
+Initial thread returns from Yield(INVALID2)
+Made it to hello() in called thread
+Message: World
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 0
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 1
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 2
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 3
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 4
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 5
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 6
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 7
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 8
+
+Thread returns from first yield
+Thread returns from second yield
+Made it to hello() in called thread
+Message: Hello from thread 9
+
+Thread returns from first yield
+Thread returns from second yield
+Creating 1023 threads
+Running 1023 threads
+Creating 1023 threads
+Destorying 512 threads, running the rest
+Trying some destroys even though I'm the only thread
+Testing destroy self
+For my grand finale, I will destroy myself
+while my talented assistant prints Done.
+Finale running
+Done.
